@@ -1,4 +1,4 @@
-=== Bootstrap Components for Elementor ===
+=== Include Bootstrap Components for Elementor ===
 Contributors: emsbservicebooking, motahar1
 Tags: elementor, addons, elementor addon, elementor widget, elements, bootstrap, components, bootstrap components, page builder, page editor,
 Requires at Least: 3.5
@@ -8,13 +8,13 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-20+ Free Elementor widgets to make your pages more elegant more professional more lucretive with Bootstrap Components for Elementor. Get modern and most attractive css effects and animations.
+20+ Free Elementor widgets to make your pages more elegant more professional more lucretive with Include Bootstrap Components for Elementor. Get modern and most attractive css effects and animations.
 
 == Description ==
 
-20+ Free Elementor widgets to make your pages more elegant more professional more lucretive with Bootstrap Components for Elementor. Get modern and most attractive css effects and animations.
+20+ Free Elementor widgets to make your pages more elegant more professional more lucretive with Include Bootstrap Components for Elementor. Get modern and most attractive css effects and animations.
 
-**Key Features of Bootstrap Components for Elementor**
+**Key Features of Include Bootstrap Components for Elementor**
 
 *   **Simple Blog Posts Elementor Widget** [https://www.youtube.com/watch?v=h7BOuvDdOyQ]  
 *   **Blog Posts Expand Elementor Widget**  [https://www.youtube.com/watch?v=190hSKeBN4w]  
@@ -30,17 +30,17 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Installation ==
  
-**AUTO INSTALLATION OF Bootstrap Components for Elementor PLUGIN:**
+**AUTO INSTALLATION OF Include Bootstrap Components for Elementor PLUGIN:**
  
 1.  From your admin dashboard click on Add New from plugins.
-1.  Then search for "**Bootstrap Components for Elementor**".
+1.  Then search for "**Include Bootstrap Components for Elementor**".
 1.  Click on install & then activate.
 1.  Then follow the steps of “How to Use” from the description.
 
-**MANUAL INSTALLATION OF Bootstrap Components for Elementor PLUGIN:**
+**MANUAL INSTALLATION OF Include Bootstrap Components for Elementor PLUGIN:**
 
-1.  Search for " **Bootstrap Components for Elementor** " on https://wordpress.org/plugins/
-1.  Then click on the **Bootstrap Components for Elementor** plugin.
+1.  Search for " **Include Bootstrap Components for Elementor** " on https://wordpress.org/plugins/
+1.  Then click on the **Include Bootstrap Components for Elementor** plugin.
 1.  “Download” from the right side.
 1.  Then go to your admin dashboard and click on add new from plugins.
 1.  From upper top portion click on Upload Plugin.
@@ -49,7 +49,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
  
  
 == Frequently Asked Questions ==
-= Is Bootstrap Components for Elementor totally free ? =
+= Is Include Bootstrap Components for Elementor totally free ? =
 
 Yes, it is 100% free.
 

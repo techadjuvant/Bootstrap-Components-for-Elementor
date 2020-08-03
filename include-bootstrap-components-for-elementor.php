@@ -1,6 +1,6 @@
 <?php 
 /**
- * Plugin Name: Bootstrap Components for Elementor
+ * Plugin Name: Include Bootstrap Components for Elementor
  * Description: 20+ Free Custom Elementor extension of Bootstrap components. Modal, Card, Tooltip, Spinner, Breadcrumb, Pagination, 7 blog posts, Slider, Carousel, etc.
  * Plugin URI:  https://elementor.com/
  * Version:     1.0.0
